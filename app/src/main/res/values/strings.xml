@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteDBApp</string>
+    <string name="etr_id">Enter ID</string>
+    <string name="etr_nm">Enter Name</string>
+    <string name="etr_prog">Enter Program</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="search">SEARCH</string>
+    <string name="view_all">VIEW ALL</string>
+</resources>
