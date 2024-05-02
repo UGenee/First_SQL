@@ -45,7 +45,9 @@
         android:layout_marginEnd="16dp"
         android:background="@drawable/edittext_bg"
         android:padding="12dp"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:inputType="number"/>
 
     <TextView
         android:id="@+id/etr_nm"
@@ -67,6 +69,7 @@
         android:layout_marginEnd="16dp"
         android:background="@drawable/edittext_bg"
         android:padding="12dp"
+        android:textColor="@color/black"
         android:textSize="20sp" />
 
     <TextView
@@ -89,6 +92,7 @@
         android:layout_marginEnd="16dp"
         android:background="@drawable/edittext_bg"
         android:padding="12dp"
+        android:textColor="@color/black"
         android:textSize="20sp" />
 
     <Button
