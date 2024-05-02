@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/btns"
     tools:context=".MainActivity">
 
     <View
@@ -32,6 +33,7 @@
         android:text="@string/etr_id"
         android:textStyle="bold"
         android:textSize="20sp"
+        android:textColor="@color/white"
         android:layout_below="@id/title_app"
         android:layout_marginStart="16dp"
         android:layout_marginTop="32dp" />
@@ -56,6 +58,7 @@
         android:text="@string/etr_nm"
         android:textStyle="bold"
         android:textSize="20sp"
+        android:textColor="@color/white"
         android:layout_below="@id/edit_id"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp" />
@@ -79,6 +82,7 @@
         android:text="@string/etr_prog"
         android:textStyle="bold"
         android:textSize="20sp"
+        android:textColor="@color/white"
         android:layout_below="@id/edit_nm"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp" />
