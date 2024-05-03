@@ -48,8 +48,7 @@
         android:background="@drawable/edittext_bg"
         android:padding="12dp"
         android:textSize="20sp"
-        android:textColor="@color/black"
-        android:inputType="number"/>
+        android:textColor="@color/black" />
 
     <TextView
         android:id="@+id/etr_nm"
